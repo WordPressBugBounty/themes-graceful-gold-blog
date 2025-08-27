@@ -5,7 +5,7 @@ Author: Aslam
 Author URI: http://optimathemes.com/
 Description: Graceful Gold Blog is a stylish and versatile free WordPress theme designed for a wide range of blogs and websites, including fashion, lifestyle, travel, tech, health, fitness, beauty, food, news, and online magazines. With its fully responsive and Retina-ready design, this theme ensures a seamless and visually stunning experience across all devices. Featuring a clean, modern, and minimalistic layout, Graceful Gold Blog is both user-friendly and highly customizable. It is WooCommerce compatible, allowing you to create an online store effortlessly, and supports Right-to-Left (RTL) languages for greater accessibility. Additionally, it is SEO-optimized, ensuring better search engine rankings and improved visibility. Whether you're a blogger, entrepreneur, or business owner, Graceful Gold Blog provides the perfect foundation for building a professional and engaging website.
 Template: graceful
-Version: 1.0.4
+Version: 1.0.5
 Requires at least: 5.3
 Tested up to: 6.8
 Requires PHP: 5.6
@@ -377,9 +377,6 @@ Featured Boxes Sections
   height: 100%;
 }
 
-#featured-boxes .featured-box img {
-    border-radius: 20px;
-}
 
 #featured-boxes .graceful-wrap-outer {
   padding: 12px;
